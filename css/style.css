@@ -515,6 +515,7 @@ h1 span{
   width:100%;
   background:#f3f3f3;
   z-index:10;
+  text-align: center;
 
 }
 
@@ -583,6 +584,15 @@ h1 span{
   position:relative;
   margin-bottom:70px;
   overflow:hidden;
+}
+
+.port-p {
+  color: #a4a4a4;
+  font-size: 16px;
+}
+
+.port-p a {
+  color: black;
 }
 
 .grid li{
@@ -805,6 +815,10 @@ h1 span{
   font-size:20px;
   line-height:26px;
   font-family: 'Lato', sans-serif;
+}
+
+.contact-text .email {
+  padding-left: 60px;
 }
 
 strong{
